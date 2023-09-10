@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#777373</color>
+
+    <color name="colorPrimary">#7CB342</color>
+    <color name="colorPrimaryDark">#00887B</color>
+    <color name="colorAccent">#272727</color>
+
+    <color name="splashBackground">#56C596</color>
+    <color name="green">#0f0</color>
+    <color name="box_background">#FDFBF6</color>
+    <color name="loginColor">#445037</color>
+
+    <color name="background">#F2F8F3</color>
+    <color name="banner">#f1e9ce</color>
+    <color name="lightBanner">#56f1e9ce</color>
+
+    <color name="lightGreen">#88D588</color>
+    <color name="lightOrange">#E49602</color>
+    <color name="lightViolet">#d4cbe5</color>
+    <color name="lightBlue">#7adccf</color>
+    <color name="lightNavigation">#ECF4FB</color>
+
+    <color name="Cream">#f7c59f</color>
+    <color name="cardColor">#b8d7f5</color>
+    <color name="cardColor1">#3F99F1</color>
+</resources>
